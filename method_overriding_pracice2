@@ -1,0 +1,4 @@
+class Tv(self):
+    var1="I am a TV variable"
+
+    def play(self, pakistanidrama, engli):
